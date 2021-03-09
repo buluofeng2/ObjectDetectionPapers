@@ -13,3 +13,4 @@ Some papers about SOD and some github-program about the papers
 - 论文：https://arxiv.org/abs/2004.10934
 - 源码：https://github.com/AlexeyAB/darknet
 - 使用教程 ： https://blog.csdn.net/Creama_/article/details/106209388
+- yolo v4权重文件 ： https://drive.google.com/file/d/1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT/view
