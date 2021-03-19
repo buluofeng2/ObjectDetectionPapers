@@ -18,7 +18,6 @@ Some papers about SOD and some github-program about the papers
 - yolo v4权重文件 ： https://drive.google.com/file/d/1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT/view
 - issue:
   - mosaic=1: https://blog.csdn.net/yapifeitu/article/details/106001420
-  - 这东西无法提交吗？？？
 
 ### test
 - 测试vscode中的git插件的使用效果
