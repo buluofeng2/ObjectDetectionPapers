@@ -14,6 +14,8 @@ Some papers about SOD and some github-program about the papers
 ### YOLO V4
 - 论文：https://arxiv.org/abs/2004.10934
 - 源码：https://github.com/AlexeyAB/darknet
+  - 上面的源码跑不通，换一个pytorch版本的
+  - [yolov4-pytorch](https://github.com/Tianxiaomo/pytorch-YOLOv4)
 - 使用教程 ： https://blog.csdn.net/Creama_/article/details/106209388
 - yolo v4权重文件 ： https://drive.google.com/file/d/1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT/view
 - issue:
@@ -21,3 +23,4 @@ Some papers about SOD and some github-program about the papers
 
 ### test
 - 测试vscode中的git插件的使用效果
+- 测试vscode中的服务器与本地代码同步的插件是否有效 -- 有效
