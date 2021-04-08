@@ -21,6 +21,9 @@ Some papers about SOD and some github-program about the papers
 - issue:
   - mosaic=1: https://blog.csdn.net/yapifeitu/article/details/106001420
 
+### detectron2
+- 源码 ： https://github.com/facebookresearch/detectron2
+
 ### test
 - 测试vscode中的git插件的使用效果
 - 测试vscode中的服务器与本地代码同步的插件是否有效 -- 有效
