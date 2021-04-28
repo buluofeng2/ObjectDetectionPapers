@@ -23,6 +23,8 @@ Some papers about SOD and some github-program about the papers
 
 ### detectron2
 - 源码 ： https://github.com/facebookresearch/detectron2
+- intro: https://cloud.tencent.com/developer/article/1583634
+- getting Started : https://detectron2.readthedocs.io/en/latest/tutorials/evaluation.html
 
 ### faster-rcnn
 - Code : https://github.com/ruotianluo/pytorch-faster-rcnn
