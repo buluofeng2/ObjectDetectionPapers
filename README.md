@@ -24,6 +24,9 @@ Some papers about SOD and some github-program about the papers
 ### detectron2
 - 源码 ： https://github.com/facebookresearch/detectron2
 
+### faster-rcnn
+- Code : https://github.com/ruotianluo/pytorch-faster-rcnn
+
 ### test
 - 测试vscode中的git插件的使用效果
 - 测试vscode中的服务器与本地代码同步的插件是否有效 -- 有效
