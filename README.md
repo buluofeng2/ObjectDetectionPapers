@@ -21,6 +21,10 @@ Some papers about SOD and some github-program about the papers
 - issue:
   - mosaic=1: https://blog.csdn.net/yapifeitu/article/details/106001420
 
+### Swin-Transformer
+- 源码：https://github.com/SwinTransformer/Swin-Transformer-Object-Detection
+  - https://link.zhihu.com/?target=https%3A//github.com/microsoft/Swin-Transformer
+  - https://link.zhihu.com/?target=https%3A//github.com/SwinTransformer/Swin-Transformer-Semantic-Segmentation
 ### detectron2
 - 源码 ： https://github.com/facebookresearch/detectron2
 - intro: https://cloud.tencent.com/developer/article/1583634
