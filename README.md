@@ -20,7 +20,7 @@ Some papers about SOD and some github-program about the papers
 - yolo v4权重文件 ： https://drive.google.com/file/d/1cewMfusmPjYWbrnuJRuKhPMwRe_b9PaT/view
 - issue:
   - mosaic=1: https://blog.csdn.net/yapifeitu/article/details/106001420
-
+git
 ### Swin-Transformer
 - 源码：https://github.com/SwinTransformer/Swin-Transformer-Object-Detection
   - https://link.zhihu.com/?target=https%3A//github.com/microsoft/Swin-Transformer
@@ -29,9 +29,12 @@ Some papers about SOD and some github-program about the papers
 - 源码 ： https://github.com/facebookresearch/detectron2
 - intro: https://cloud.tencent.com/developer/article/1583634
 - getting Started : https://detectron2.readthedocs.io/en/latest/tutorials/evaluation.html
-
+- error : RuntimeError: DataLoader worker (pid 37593) is killed by signal: Bus error. It is possible that dataloader's workers are out of shared memory. Please try to raise your shared memory limit.
 ### faster-rcnn
 - Code : https://github.com/ruotianluo/pytorch-faster-rcnn
+
+### Swin-transformer
+- Code : https://github.com/SwinTransformer/Swin-Transformer-Object-Detection
 
 ### test
 - 测试vscode中的git插件的使用效果
