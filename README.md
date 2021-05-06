@@ -1,6 +1,10 @@
 # ObjectDetectionPapers
 Some papers about SOD and some github-program about the papers
 
+### 数据集
+- COCO : https://paperswithcode.com/dataset/coco
+- LVIS : https://paperswithcode.com/dataset/lvis
+- CIFAR10 : https://paperswithcode.com/dataset/cifar-10
 ## 代码
 ### Augmentation for small object detection
   - 跑不了，都只是工具项目，只是实现了小图片的复制黏贴罢了
