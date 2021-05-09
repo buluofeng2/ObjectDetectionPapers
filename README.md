@@ -3,6 +3,9 @@ Some papers about SOD and some github-program about the papers
 
 ### 数据集
 - COCO : https://paperswithcode.com/dataset/coco
+  - cocoapi https://github.com/cocodataset/cocoapi
+  - pip install numpy
+  - conda install cpython
 - LVIS : https://paperswithcode.com/dataset/lvis
 - CIFAR10 : https://paperswithcode.com/dataset/cifar-10
 ## 代码
