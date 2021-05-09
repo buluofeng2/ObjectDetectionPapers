@@ -39,6 +39,8 @@ git
 
 ### Swin-transformer
 - Code : https://github.com/SwinTransformer/Swin-Transformer-Object-Detection
+### pp yolo tiny
+- Code : https://github.com/PaddlePaddle/PaddleDetection/blob/release/2.0/README_cn.md
 
 ### test
 - 测试vscode中的git插件的使用效果
