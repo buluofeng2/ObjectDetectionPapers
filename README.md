@@ -45,6 +45,11 @@ git
 ### pp yolo tiny
 - Code : https://github.com/PaddlePaddle/PaddleDetection/blob/release/2.0/README_cn.md
 
+### SM+
+- Code : https://github.com/ucas-vg/TinyBenchmark
+- 中文 ： https://blog.csdn.net/qq_45552341/article/details/111567522
+- paper ： https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Refined+scale+Match&btnG=
+
 ### test
 - 测试vscode中的git插件的使用效果
 - 测试vscode中的服务器与本地代码同步的插件是否有效 -- 有效

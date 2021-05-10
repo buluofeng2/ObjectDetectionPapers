@@ -79,3 +79,101 @@
 	{"supercategory": "indoor","id": 88,"name": "teddy bear"},
 	{"supercategory": "indoor","id": 89,"name": "hair drier"},
 	{"supercategory": "indoor","id": 90,"name": "toothbrush"}]}
+
+
+source:
+|   AP   |  AP50  |  AP75  |  APs   |  APm   |  APl   |
+|:------:|:------:|:------:|:------:|:------:|:------:|
+| 25.554 | 45.607 | 25.433 | 11.852 | 30.021 | 35.451 |
+[05/10 13:44:13] d2.evaluation.coco_evaluation INFO: Per-category bbox AP: 
+| category      | AP     | category     | AP     | category       | AP     |
+|:--------------|:-------|:-------------|:-------|:---------------|:-------|
+| person        | 42.403 | bicycle      | 18.179 | car            | 28.061 |
+| motorcycle    | 27.241 | airplane     | 42.183 | bus            | 46.829 |
+| train         | 40.233 | truck        | 17.253 | boat           | 13.175 |
+| traffic light | 14.469 | fire hydrant | 48.020 | stop sign      | 52.518 |
+| parking meter | 35.331 | bench        | 12.704 | bird           | 23.584 |
+| cat           | 45.616 | dog          | 45.313 | horse          | 38.815 |
+| sheep         | 32.258 | cow          | 36.299 | elephant       | 44.342 |
+| bear          | 54.413 | zebra        | 52.115 | giraffe        | 50.911 |
+| backpack      | 5.870  | umbrella     | 20.735 | handbag        | 4.797  |
+| tie           | 12.998 | suitcase     | 15.422 | frisbee        | 45.664 |
+| skis          | 7.896  | snowboard    | 12.553 | sports ball    | 31.554 |
+| kite          | 25.775 | baseball bat | 12.030 | baseball glove | 21.341 |
+| skateboard    | 28.670 | surfboard    | 18.923 | tennis racket  | 29.461 |
+| bottle        | 23.385 | wine glass   | 19.208 | cup            | 27.924 |
+| fork          | 9.943  | knife        | 4.025  | spoon          | 5.076  |
+| bowl          | 29.814 | banana       | 15.031 | apple          | 9.999  |
+| sandwich      | 23.061 | orange       | 22.039 | broccoli       | 16.798 |
+| carrot        | 10.684 | hot dog      | 18.155 | pizza          | 38.132 |
+| donut         | 28.641 | cake         | 18.926 | chair          | 13.776 |
+| couch         | 24.174 | potted plant | 14.296 | bed            | 25.638 |
+| dining table  | 15.717 | toilet       | 40.412 | tv             | 42.182 |
+| laptop        | 42.535 | mouse        | 43.639 | remote         | 10.628 |
+| keyboard      | 31.616 | cell phone   | 19.102 | microwave      | 37.369 |
+| oven          | 16.864 | toaster      | 16.194 | sink           | 21.476 |
+| refrigerator  | 30.067 | book         | 6.001  | clock          | 38.795 |
+| vase          | 22.794 | scissors     | 17.795 | teddy bear     | 31.133 |
+| hair drier    | 0.000  | toothbrush   | 5.351  |                |        |
+
+AUGed - Aug3
+|   AP   |  AP50  |  AP75  |  APs   |  APm   |  APl   |
+|:------:|:------:|:------:|:------:|:------:|:------:|
+| 25.261 | 44.079 | 25.614 | 11.487 | 29.869 | 35.642 |
+[05/10 15:31:18 d2.evaluation.coco_evaluation]: Per-category bbox AP:
+| category      | AP     | category     | AP     | category       | AP     |
+|:--------------|:-------|:-------------|:-------|:---------------|:-------|
+|  person        | 42.171 |  bicycle      | 17.604 |  car            | 27.888 |
+| *motorcycle    | 27.721 | *airplane     | 43.507 |  bus            | 44.907 |
+|  train         | 39.469 | *truck        | 18.589 |  boat           | 13.190 |
+| *traffic light | 15.111 | *fire hydrant | 49.469 |  stop sign      | 51.976 |
+|  parking meter | 35.172 |  bench        | 12.367 |  bird           | 22.625 |
+| *cat           | 47.034 |  dog          | 41.909 |  horse          | 36.700 |
+|  sheep         | 31.096 |  cow          | 34.461 |  elephant       | 43.797 |
+| *bear          | 55.367 |  zebra        | 52.590 | *giraffe        | 53.357 |
+|  backpack      | 5.636  | *umbrella     | 22.229 |  handbag        | 4.726  |
+|  tie           | 12.744 |  suitcase     | 13.770 | *frisbee        | 46.320 |
+| *skis          | 8.441  | *snowboard    | 13.014 | *sports ball    | 32.191 |
+|  kite          | 24.388 |  baseball bat | 12.363 |  baseball glove | 19.462 |
+| *skateboard    | 30.275 | *surfboard    | 19.969 |  tennis racket  | 29.990 |
+|  bottle        | 23.308 |  wine glass   | 18.800 |  cup            | 27.980 |
+| *fork          | 11.350 | *knife        | 5.004  | *spoon          | 5.147  |
+|  bowl          | 29.772 |  banana       | 14.617 |  apple          | 9.771  |
+|  sandwich      | 22.947 |  orange       | 21.816 |  broccoli       | 16.822 |
+|  carrot        | 9.727  |  hot dog      | 15.601 |  pizza          | 38.327 |
+|  donut         | 26.671 | *cake         | 19.591 |  chair          | 13.758 |
+|  couch         | 23.941 |  potted plant | 13.640 | *bed            | 27.043 |
+| *dining table  | 16.590 | *toilet       | 42.641 |  tv             | 39.383 |
+|  laptop        | 42.064 |  mouse        | 42.380 | *remote         | 11.188 |
+|  keyboard      | 29.718 | *cell phone   | 21.636 |  microwave      | 36.430 |
+|  oven          | 16.184 |  toaster      | 4.074  |  sink           | 20.810 |
+|  refrigerator  | 28.968 |  book         | 6.005  | *clock          | 40.234 |
+| *vase          | 23.802 |  scissors     | 14.508 |  teddy bear     | 29.964 |
+|  hair drier    | 0.000  |  toothbrush   | 5.103  |                |        |
+
+Auged class:
+motorcycle 
+traffic light
+cat -
+bear - 
+skis - 
+skateboard - 
+fork - 
+dining table - 
+vase - 
+airplane - 
+truck - 
+fire hydrant - 
+umbrella 
+snowboard
+knife
+cake
+toilet
+cell phone
+giraffe -
+frisbee - 
+sports ball 
+spoon - 
+bed 
+remote 
+clock 
