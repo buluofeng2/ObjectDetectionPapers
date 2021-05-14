@@ -177,3 +177,86 @@ spoon -
 bed 
 remote 
 clock 
+
+
+
+{'category': 'refrigerator', 'supercategory': 'appliance', 'num': 22}
+{'category': 'bear', 'supercategory': 'animal', 'num': 37}
+{'category': 'bed', 'supercategory': 'furniture', 'num': 40}
+{'category': 'toaster', 'supercategory': 'appliance', 'num': 51}
+{'category': 'couch', 'supercategory': 'furniture', 'num': 75}
+{'category': 'hair drier', 'supercategory': 'indoor', 'num': 76}
+{'category': 'oven', 'supercategory': 'appliance', 'num': 119}
+{'category': 'cat', 'supercategory': 'animal', 'num': 126}
+{'category': 'microwave', 'supercategory': 'appliance', 'num': 146}
+{'category': 'train', 'supercategory': 'vehicle', 'num': 149}
+{'category': 'toilet', 'supercategory': 'furniture', 'num': 177}
+{'category': 'giraffe', 'supercategory': 'animal', 'num': 425}
+{'category': 'fire hydrant', 'supercategory': 'outdoor', 'num': 453}
+{'category': 'tv', 'supercategory': 'electronic', 'num': 454}
+{'category': 'keyboard', 'supercategory': 'electronic', 'num': 482}
+{'category': 'scissors', 'supercategory': 'indoor', 'num': 518}
+{'category': 'sandwich', 'supercategory': 'food', 'num': 570}
+{'category': 'teddy bear', 'supercategory': 'indoor', 'num': 571}
+{'category': 'parking meter', 'supercategory': 'outdoor', 'num': 595}
+{'category': 'stop sign', 'supercategory': 'outdoor', 'num': 606}
+{'category': 'laptop', 'supercategory': 'electronic', 'num': 624}
+{'category': 'dog', 'supercategory': 'animal', 'num': 669}
+{'category': 'bus', 'supercategory': 'vehicle', 'num': 724}
+{'category': 'zebra', 'supercategory': 'animal', 'num': 740}
+{'category': 'elephant', 'supercategory': 'animal', 'num': 747}
+{'category': 'pizza', 'supercategory': 'food', 'num': 766}
+{'category': 'hot dog', 'supercategory': 'food', 'num': 789}
+{'category': 'airplane', 'supercategory': 'vehicle', 'num': 1135}
+{'category': 'cake', 'supercategory': 'food', 'num': 1223}
+{'category': 'broccoli', 'supercategory': 'food', 'num': 1248}
+{'category': 'toothbrush', 'supercategory': 'indoor', 'num': 1250}
+{'category': 'mouse', 'supercategory': 'electronic', 'num': 1291}
+{'category': 'suitcase', 'supercategory': 'accessory', 'num': 1295}
+{'category': 'snowboard', 'supercategory': 'sports', 'num': 1306}
+{'category': 'sink', 'supercategory': 'appliance', 'num': 1350}
+{'category': 'frisbee', 'supercategory': 'sports', 'num': 1437}
+{'category': 'horse', 'supercategory': 'animal', 'num': 1472}
+{'category': 'tennis racket', 'supercategory': 'sports', 'num': 1721}
+{'category': 'donut', 'supercategory': 'food', 'num': 2107}
+{'category': 'dining table', 'supercategory': 'furniture', 'num': 2145}
+{'category': 'baseball bat', 'supercategory': 'sports', 'num': 2146}
+{'category': 'motorcycle', 'supercategory': 'vehicle', 'num': 2272}
+{'category': 'apple', 'supercategory': 'food', 'num': 2482}
+{'category': 'surfboard', 'supercategory': 'sports', 'num': 2493}
+{'category': 'skateboard', 'supercategory': 'sports', 'num': 2497}
+{'category': 'baseball glove', 'supercategory': 'sports', 'num': 2591}
+{'category': 'orange', 'supercategory': 'food', 'num': 2594}
+{'category': 'potted plant', 'supercategory': 'furniture', 'num': 2693}
+{'category': 'vase', 'supercategory': 'indoor', 'num': 2718}
+{'category': 'truck', 'supercategory': 'vehicle', 'num': 2723}
+{'category': 'clock', 'supercategory': 'indoor', 'num': 2969}
+{'category': 'bicycle', 'supercategory': 'vehicle', 'num': 3055}
+{'category': 'fork', 'supercategory': 'kitchen', 'num': 3175}
+{'category': 'cow', 'supercategory': 'animal', 'num': 3190}
+{'category': 'banana', 'supercategory': 'food', 'num': 3417}
+{'category': 'carrot', 'supercategory': 'food', 'num': 3461}
+{'category': 'tie', 'supercategory': 'accessory', 'num': 3553}
+{'category': 'bench', 'supercategory': 'outdoor', 'num': 3727}
+{'category': 'cell phone', 'supercategory': 'electronic', 'num': 3901}
+{'category': 'wine glass', 'supercategory': 'kitchen', 'num': 3980}
+{'category': 'spoon', 'supercategory': 'kitchen', 'num': 4159}
+{'category': 'remote', 'supercategory': 'electronic', 'num': 4171}
+{'category': 'sheep', 'supercategory': 'animal', 'num': 4185}
+{'category': 'backpack', 'supercategory': 'accessory', 'num': 4408}
+{'category': 'skis', 'supercategory': 'sports', 'num': 4447}
+{'category': 'bowl', 'supercategory': 'kitchen', 'num': 4631}
+{'category': 'umbrella', 'supercategory': 'accessory', 'num': 4651}
+{'category': 'knife', 'supercategory': 'kitchen', 'num': 5050}
+{'category': 'boat', 'supercategory': 'vehicle', 'num': 5298}
+{'category': 'sports ball', 'supercategory': 'sports', 'num': 5424}
+{'category': 'kite', 'supercategory': 'sports', 'num': 6531}
+{'category': 'bird', 'supercategory': 'animal', 'num': 6904}
+{'category': 'handbag', 'supercategory': 'accessory', 'num': 7256}
+{'category': 'cup', 'supercategory': 'kitchen', 'num': 10018}
+{'category': 'traffic light', 'supercategory': 'outdoor', 'num': 10019}
+{'category': 'bottle', 'supercategory': 'kitchen', 'num': 14817}
+{'category': 'chair', 'supercategory': 'furniture', 'num': 15254}
+{'category': 'book', 'supercategory': 'indoor', 'num': 17141}
+{'category': 'car', 'supercategory': 'vehicle', 'num': 26713}
+{'category': 'person', 'supercategory': 'person', 'num': 105895}

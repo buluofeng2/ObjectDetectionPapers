@@ -1,0 +1,80 @@
+refrigerator    22		
+bear		    37		
+bed		        40		
+toaster		    51		
+couch		    75		
+hair drier      76		
+oven		    119		
+cat		        126		
+microwave       146		
+train		    149		
+toilet		    177		
+giraffe		    425		
+fire hydrant    453		
+tv		        454		
+keyboard        482		
+scissors        518		
+sandwich        570		
+teddy bear      571		
+parking meter   595		
+stop sign		606		
+laptop		    624		
+dog		        669		
+bus		        724		
+zebra		    740		
+elephant		747		
+pizza		    766		
+hot dog		    789		
+airplane		1135		
+cake		    1223		
+broccoli		1248		
+toothbrush		1250		
+mouse		    1291		
+suitcase		1295		
+snowboard		1306		
+sink		    1350		
+frisbee		    1437		
+horse		    1472		
+tennis racket   1721		
+donut		    2107		
+dining table    2145		
+baseball bat    2146		
+motorcycle		2272		
+apple		    2482		
+surfboard		2493		
+skateboard		2497		
+baseball glove  2591		
+orange		    2594		
+potted plant    2693		
+vase		    2718		
+truck		    2723		
+clock		    2969		
+bicycle		    3055		
+fork		    3175		
+cow		        3190		
+banana		    3417		
+carrot		    3461		
+tie		        3553		
+bench		    3727		
+cell phone		3901		
+wine glass		3980		
+spoon		    4159		
+remote		    4171		
+sheep		    4185		
+backpack		4408		
+skis		    4447		
+bowl		    4631		
+umbrella		4651		
+knife		    5050		
+boat		    5298		
+sports ball		5424		
+kite		    6531		
+bird		    6904		
+handbag		    7256		
+cup		        10018		
+traffic light   10019		
+bottle		    14817		
+chair		    15254		
+book		    17141		
+car		        26713		
+person		    105895		
