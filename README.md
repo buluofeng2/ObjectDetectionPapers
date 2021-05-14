@@ -53,3 +53,20 @@ git
 ### test
 - 测试vscode中的git插件的使用效果
 - 测试vscode中的服务器与本地代码同步的插件是否有效 -- 有效
+
+### github使用指南
+- https://github.com/trending
+
+### 知乎专栏
+- https://www.zhihu.com/column/c_1285538965131460608
+
+### pytorch教程
+- https://github.com/fendouai/PyTorchDocs
+
+### faster RCNN
+https://zhuanlan.zhihu.com/p/31426458
+https://zhuanlan.zhihu.com/p/145842317
+
+### gan
+https://zhuanlan.zhihu.com/p/97686292
+https://zhuanlan.zhihu.com/p/36058813
